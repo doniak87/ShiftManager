@@ -1,0 +1,14 @@
+{
+    "workers" :{
+        "title" : "workers",
+        "headers": ["ID","Name","DayOff","AbleToWork","CannotWork"]
+    },
+    "tasks": {
+        "title" : "tasks",
+        "headers": ["ID","Name","Day","Interval"]
+    },
+    "days":{
+        "title" : "daysOfWeek",
+        "headers": ["Segunda","Terça","Quarta","Quinta","Sexta","Sabado","Domingo"]
+    }
+}
